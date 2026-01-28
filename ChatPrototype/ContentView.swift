@@ -8,11 +8,11 @@
 import SwiftUI
 
 let buttonGrid = [
-    ["delete.left.fill", "c.circle.fill", "percent", "divide"],
-    ["7","8","9","multiply"],
-    ["4","5","6","substract"],
-    ["1","2","3","add"],
-    ["invert","0","point","equal"]
+    ["delete.left", "c.square.", "percent", "divide.square"],
+    ["7.square","8.square","9.square","multiply.square"],
+    ["4.square","5.square","6.square","minus.square"],
+    ["1.square","2.square","3.square","plus.square"],
+    ["plusminus.circle","0.square","dot.square","equal.square"]
 ]
 
 struct ContentView: View {
